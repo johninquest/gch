@@ -1,0 +1,1 @@
+<div style="text-align: center; margin: 3rem">Contact page</div>
